@@ -1,0 +1,39 @@
+.imgdiv{
+    background-image: url(images/buliding.jpg);
+    height: 85vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+
+}
+
+
+.contactContainer{
+   color: white;
+ 
+
+}
+
+
+
+.contactContainer p{
+   
+    margin-left: 60px;
+    margin-right: 60px;
+    
+
+}
+
+
+.ContactForm{
+    /* position: relative;
+    
+    bottom: 200px; */
+    margin-left: 60%;
+    margin-top: -20%;
+}
+
+
+.iconecontainer{
+   margin-top: 40px;
+}

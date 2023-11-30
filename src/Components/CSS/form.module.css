@@ -1,0 +1,47 @@
+.formcontainer {
+
+    background-color: white;
+    width: 30%;
+    height: 65vh;
+    border-radius: 0px;
+    position: absolute;
+    top: 30%;
+
+}
+
+.formcontainer p {
+    color: black;
+    margin-left: 40px;
+    font-family: "Goudy Bookletter 1911", sans-serif;
+    font-size: 25px;
+    position: relative;
+    top: 20px;
+
+}
+
+
+
+.formdiv input {
+    width: 80%;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    margin: 20px;
+    background: transparent;
+    margin-left: 40px;
+    margin-top: 50px;
+}
+
+
+
+.formdiv button {
+    margin-top: 10px;
+    margin-left: 45px;
+    background-color: rgb(38, 143, 185);
+    border: none;
+    height: 35px;
+    width: 70px;
+    color: white;
+    cursor: pointer;
+    text-align: center;
+}

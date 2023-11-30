@@ -1,0 +1,33 @@
+.imgcontainer {
+    background-image: url(images/pic.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.content{
+    background-color: white;
+    width: 50%;
+    margin-left: 25%;
+    position: absolute;
+    top: 40%;
+    height: 40vh;
+    border-radius: 2px;
+} 
+
+.content p{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.content h1{
+    margin-left: 20px;
+}
+
+.content ul {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    margin-top: 75px;
+}
